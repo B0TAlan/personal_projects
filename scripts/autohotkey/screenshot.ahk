@@ -1,0 +1,1 @@
+run, explorer.exe ms-screenclip: return

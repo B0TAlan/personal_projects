@@ -1,0 +1,14 @@
+C:\Users\Alan Schneider\Documents\scripts\C#\ece 264 time bb\ece 264 time bb\bin\Debug\net8.0\ece 264 time bb.exe
+C:\Users\Alan Schneider\Documents\scripts\C#\ece 264 time bb\ece 264 time bb\bin\Debug\net8.0\ece 264 time bb.deps.json
+C:\Users\Alan Schneider\Documents\scripts\C#\ece 264 time bb\ece 264 time bb\bin\Debug\net8.0\ece 264 time bb.runtimeconfig.json
+C:\Users\Alan Schneider\Documents\scripts\C#\ece 264 time bb\ece 264 time bb\bin\Debug\net8.0\ece 264 time bb.dll
+C:\Users\Alan Schneider\Documents\scripts\C#\ece 264 time bb\ece 264 time bb\bin\Debug\net8.0\ece 264 time bb.pdb
+C:\Users\Alan Schneider\Documents\scripts\C#\ece 264 time bb\ece 264 time bb\obj\Debug\net8.0\ece 264 time bb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alan Schneider\Documents\scripts\C#\ece 264 time bb\ece 264 time bb\obj\Debug\net8.0\ece 264 time bb.AssemblyInfoInputs.cache
+C:\Users\Alan Schneider\Documents\scripts\C#\ece 264 time bb\ece 264 time bb\obj\Debug\net8.0\ece 264 time bb.AssemblyInfo.cs
+C:\Users\Alan Schneider\Documents\scripts\C#\ece 264 time bb\ece 264 time bb\obj\Debug\net8.0\ece 264 time bb.csproj.CoreCompileInputs.cache
+C:\Users\Alan Schneider\Documents\scripts\C#\ece 264 time bb\ece 264 time bb\obj\Debug\net8.0\ece 264 time bb.dll
+C:\Users\Alan Schneider\Documents\scripts\C#\ece 264 time bb\ece 264 time bb\obj\Debug\net8.0\refint\ece 264 time bb.dll
+C:\Users\Alan Schneider\Documents\scripts\C#\ece 264 time bb\ece 264 time bb\obj\Debug\net8.0\ece 264 time bb.pdb
+C:\Users\Alan Schneider\Documents\scripts\C#\ece 264 time bb\ece 264 time bb\obj\Debug\net8.0\ece 264 time bb.genruntimeconfig.cache
+C:\Users\Alan Schneider\Documents\scripts\C#\ece 264 time bb\ece 264 time bb\obj\Debug\net8.0\ref\ece 264 time bb.dll

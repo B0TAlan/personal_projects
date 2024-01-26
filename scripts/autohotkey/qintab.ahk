@@ -1,0 +1,4 @@
+﻿!k::
+#InstallKeybdHook
+KeyHistory
+return
